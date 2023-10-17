@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+}
+body{
+    justify-content: center;
+    align-content: center;
+    display:flex;
+    flex-wrap: wrap;
+    padding: 25px;
+}
+.main{
+    width:400px;
+    height:420px;
+    border: 2px solid white;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    
+}
+.number{
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    display: flex;
+    border-radius: 5px;
+}
+.password{
+    width: 400px;
+    height: 40px;
+    /* border: 1px solid black; */
+    text-align: center;
+    padding-top: 5px;
+    background-color: red;
+    color:( #f45c5c14, 88, 88);
+    border-radius:6px;
+    margin-top: 20px;
+}
+.center{
+    text-align: center;
+    margin-top: 10px;
+}
+.email{
+    width: 400px;
+    height: 40px;
+    /* border: 1px solid black; */
+    text-align: center;
+    padding-top: 5px;
+    color:( #f45c5c14, 88, 88);
+    border-radius:6px;
+    margin-top: 20px;
+}
+.google{
+    width: 400px;
+    height: 40px;
+    /* border: 1px solid black; */
+    text-align: center;
+    padding-top: 5px;
+    color:( #f45c5c14, 88, 88);
+    border-radius:6px;
+    margin-top: 30px;
+}
+.hr1{
+    margin-top: 60px;
+    width:400px;
+    color: white;
+}

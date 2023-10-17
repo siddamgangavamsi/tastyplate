@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    width:auto;
+    height:500px;
+    background-image: url(/images/mainphoto.webp);
+}
+.mainimg{
+    width: 400px;
+    height: 400px;
+    border-radius: 400px;
+    border: 2px solid black;
+}
+

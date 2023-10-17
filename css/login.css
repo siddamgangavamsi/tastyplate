@@ -1,0 +1,68 @@
+*{
+    margin:0px;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 30px;
+    /* background-color; */
+}
+.header{
+    width: 400px;
+    height: 450px;
+    border:1px solid black;
+    border-radius: 5px;
+    padding: 15px;
+}
+.Name{
+    margin-left: 15px;
+    width: 350px;
+    margin-top: 30px;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid gray; 
+
+}
+.email{
+    margin-left: 15px;
+    width: 350px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 5px; 
+    border: 2px solid gray; 
+}
+.button{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.h1{
+    width: 350px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 15px;
+    text-align: center;
+    border: 1px solid gray;
+    background-color:red;
+    color: white;
+    border-radius: 5px;
+    padding-top: 5px;
+}
+.gog{
+    width: 350px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 15px;
+    text-align: center;
+    border: 1px solid black;
+    color: black;
+    border-radius: 5px;
+    padding-top: 5px;
+    background-color:red;
+
+}
+.text{
+    margin-top: 20px;
+    padding-left: 15px;
+    color: white;
+}
